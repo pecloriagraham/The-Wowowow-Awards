@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    color: gold;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+
+}
+
+img {
+    width: 400px;
+    border: dashed;
+
+}
+
+body {
+    background-image: url("https://www.indiewire.com/wp-content/uploads/2018/08/shutterstock_536246038.jpg?w=780");
+
+}
+
+h3 {
+    color: gold;
+   
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.best {
+    color: white;
+    font-family: 'McLaren', cursive;
+}
+
+.movie {
+
+    font-family: 'Roboto Mono', monospace;
+}
+
+.orange {
+    color: orange;
+}
+
+.dresser {
+    color: lightgreen;
+    font-family: 'Raleway', sans-serif;
+}
+
+.food {
+    color: blue;
+    font-family: 'Anton', sans-serif;
+}
